@@ -3,11 +3,13 @@
 		"j1a_texas",
 		"t1",
 		"ps4_class",
-		"vt_440"
+		"vt_440",
+		"s2_berkshire"
 	],
 	"tender": [
 		"coast_to_coast",
 		"t1_tender",
-		"ps4_tender_big"
+		"ps4_tender_big",
+    "s2_tender"
 	]
 }
