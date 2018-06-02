@@ -1,5 +1,6 @@
 {
 	"locomotives": [
-		"ge_p42dc"
+		"ge_emd_sd44c-9",
+		"ge_emd_sd44c-9_hn"
 	]
 }

@@ -1,9 +1,7 @@
 {
 	"locomotives": [
-		"j1a_texas",
-		"t1",
-		"ps4_class",
-		"s2_berkshire",
+		"emd_gp38-2",
+		"emd_sd70mac",
 		"ge_p42dc"
 	],
 	"tender": [
