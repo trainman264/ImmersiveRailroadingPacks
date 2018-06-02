@@ -10,7 +10,7 @@
 		"horsepower": 1400,
 		"tractive_effort_lbf": 11705,
 		"max_speed_kmh": 88,
-		"valve_gear": "walschaerts",
+		"valve_gear": "stephenson",
 		"weight_kg": 52616
 	},
 	"firebox": {
