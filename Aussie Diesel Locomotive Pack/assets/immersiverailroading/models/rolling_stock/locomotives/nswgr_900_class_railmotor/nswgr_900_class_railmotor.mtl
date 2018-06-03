@@ -1,5 +1,5 @@
 # Blender MTL File: '900 CLASS RAILMOTOR.blend'
-# Material Count: 8
+# Material Count: 7
 
 newmtl Material
 Ns 96.078431
@@ -21,15 +21,6 @@ d 1
 illum 2
 
 newmtl None_metal.png
-Ns 0
-Ka 0.000000 0.000000 0.000000
-Kd 0.8 0.8 0.8
-Ks 0.8 0.8 0.8
-d 1
-illum 2
-map_Kd metal.png
-
-newmtl None_metal.png.003
 Ns 0
 Ka 0.000000 0.000000 0.000000
 Kd 0.8 0.8 0.8
