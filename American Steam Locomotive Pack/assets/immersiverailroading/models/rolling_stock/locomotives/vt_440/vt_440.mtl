@@ -1,5 +1,5 @@
 # Blender MTL File: 'VT_440.blend'
-# Material Count: 10
+# Material Count: 11
 
 newmtl Glass
 Ns 96.078431
@@ -12,15 +12,18 @@ d 1.000000
 illum 2
 map_Kd glass.png
 
-newmtl None
-Ns 0
-Ka 0.000000 0.000000 0.000000
-Kd 0.8 0.8 0.8
-Ks 0.8 0.8 0.8
-d 1
+newmtl Glass_glass.png.001
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
 illum 2
+map_Kd glass.png
 
-newmtl metal
+newmtl Metal
 Ns 96.078431
 Ka 1.000000 1.000000 1.000000
 Kd 0.640000 0.640000 0.640000
@@ -31,7 +34,7 @@ d 1.000000
 illum 2
 map_Kd metal.png
 
-newmtl metal_Metal.PNG
+newmtl Metal_Metal.PNG.001
 Ns 96.078431
 Ka 1.000000 1.000000 1.000000
 Kd 0.640000 0.640000 0.640000
@@ -40,9 +43,9 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd Metal.PNG
+map_Kd metal.png
 
-newmtl metal_Metal.PNG.001
+newmtl Metal_NONE
 Ns 96.078431
 Ka 1.000000 1.000000 1.000000
 Kd 0.640000 0.640000 0.640000
@@ -51,9 +54,17 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd .
+map_Kd metal.png
 
-newmtl psigauge01
+newmtl None
+Ns 0
+Ka 0.000000 0.000000 0.000000
+Kd 0.8 0.8 0.8
+Ks 0.8 0.8 0.8
+d 1
+illum 2
+
+newmtl RoughtMetal
 Ns 96.078431
 Ka 1.000000 1.000000 1.000000
 Kd 0.640000 0.640000 0.640000
@@ -62,9 +73,9 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd psigauge01.png
+map_Kd roughmetal.png
 
-newmtl roughmetal
+newmtl RoughtMetal_Metal.PNG.001
 Ns 96.078431
 Ka 1.000000 1.000000 1.000000
 Kd 0.640000 0.640000 0.640000
@@ -73,9 +84,9 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd RoughMetal.PNG
+map_Kd roughmetal.png
 
-newmtl roughmetal_RoughMetal.PNG.001
+newmtl RoughtMetal_RoughMetal.PNG.001
 Ns 96.078431
 Ka 1.000000 1.000000 1.000000
 Kd 0.640000 0.640000 0.640000
@@ -84,9 +95,9 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd .
+map_Kd roughmetal.png
 
-newmtl roughmetal_roughmetal.png
+newmtl RoughtMetal_NONE
 Ns 96.078431
 Ka 1.000000 1.000000 1.000000
 Kd 0.640000 0.640000 0.640000
