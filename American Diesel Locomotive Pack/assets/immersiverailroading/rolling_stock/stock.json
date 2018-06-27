@@ -1,5 +1,6 @@
 {
 	"locomotives": [
+		"emd_gp9",
 		"emd_gp38-2",
 		"emd_sd70mac",
 		"ge_p42dc"
