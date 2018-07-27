@@ -7,8 +7,8 @@
 	"properties": {
 		"max_psi": 300,
 		"water_capacity_l": 72680, 
-		"horsepower": 6000,
-		"tractive_effort_lbf": 44460,
+		"horsepower": 6500,
+		"tractive_effort_lbf": 64650,
 		"max_speed_kmh": 225,
 		"valve_gear": "t1",
 		"weight_kg": 227800
