@@ -1,38 +1,38 @@
 # Blender MTL File: 'TTX_HuskyKline_1.blend'
-# Material Count: 7
+# Material Count: 5
 
-newmtl bearings1
+newmtl container1
 Ns 96.078431
 Ka 1.000000 1.000000 1.000000
-Kd 0.800000 0.800000 0.800000
+Kd 0.640000 0.640000 0.640000
 Ks 0.500000 0.500000 0.500000
 Ke 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd bearings1.png
+map_Kd container1.png
 
-newmtl black1
+newmtl jbhunt
 Ns 96.078431
 Ka 1.000000 1.000000 1.000000
-Kd 0.800000 0.800000 0.800000
+Kd 0.640000 0.640000 0.640000
 Ks 0.500000 0.500000 0.500000
 Ke 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd black1.png
+map_Kd jbhunt.jpg
 
-newmtl chrome
+newmtl metal
 Ns 96.078431
 Ka 1.000000 1.000000 1.000000
-Kd 0.800000 0.800000 0.800000
+Kd 0.640000 0.640000 0.640000
 Ks 0.500000 0.500000 0.500000
 Ke 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd chrome.png
+map_Kd metal.png
 
 newmtl spring
 Ns 96.078431
@@ -45,29 +45,7 @@ d 1.000000
 illum 2
 map_Kd spring.png
 
-newmtl wheelrust
-Ns 96.078431
-Ka 1.000000 1.000000 1.000000
-Kd 0.800000 0.800000 0.800000
-Ks 0.500000 0.500000 0.500000
-Ke 0.000000 0.000000 0.000000
-Ni 1.000000
-d 1.000000
-illum 2
-map_Kd wheelrust.png
-
-newmtl wheelrust.001
-Ns 96.078431
-Ka 1.000000 1.000000 1.000000
-Kd 0.800000 0.800000 0.800000
-Ks 0.500000 0.500000 0.500000
-Ke 0.000000 0.000000 0.000000
-Ni 1.000000
-d 1.000000
-illum 2
-map_Kd wheelrust.png
-
-newmtl yellowwhethered
+newmtl steel
 Ns 96.078431
 Ka 1.000000 1.000000 1.000000
 Kd 0.640000 0.640000 0.640000
@@ -76,4 +54,4 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd yellowwhethered.png
+map_Kd steel.jpg

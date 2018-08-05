@@ -1,0 +1,9 @@
+{
+	"locomotives": [
+		"tokyu2000cabcar",
+		"tokyu2000powercar"
+	],
+	"passenger": [
+		"tokyu2000passengercar"
+	]
+}

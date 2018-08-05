@@ -3,12 +3,7 @@
 		"emd_gp9",
 		"emd_gp38-2",
 		"emd_sd70mac",
+		"emd_sd70ace",
 		"ge_p42dc"
-	],
-	"tender": [
-		"coast_to_coast",
-		"t1_tender",
-		"s2_tender",
-		"ps4_tender_big"
 	]
 }
