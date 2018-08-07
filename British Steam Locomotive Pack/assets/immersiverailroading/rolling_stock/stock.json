@@ -1,7 +1,9 @@
 {
 	"locomotives": [
-		"class_n2"
+		"class_n2",
+		"gwr_king"
 	],
 	"tender": [
+		"gwr_king_tender"
 	]
 }
