@@ -1,0 +1,47 @@
+{
+	"era": "steam",
+	"name": "B&O P7 President Class",
+	"works": "Baldwin Locomotive Works",
+	"model": "immersiverailroading:models/rolling_stock/locomotives/bo_p7/bo_p7.obj",
+	"darken_model": "-0.05",
+	"properties": {
+		"max_psi": 230,
+		"water_capacity_l": 35000, 
+		"horsepower": 3600,
+		"tractive_effort_lbf": 49882,
+		"max_speed_kmh": 160,
+		"valve_gear": "walschaerts",
+		"weight_kg": 147871
+	},
+	"firebox": {
+		"slots": 16,
+		"width": 4
+	},
+	"passenger": {
+		"slots": 2,
+		"center_x": -6.35,
+		"center_y": 1.99,
+		"length": 1.7,
+		"width": 2.8
+	},
+	"trucks": {
+		"front": 1.48, 
+		"rear": -3.1
+	},
+	"couplers": {
+		"front_offset": -0.08,
+		"rear_offset": -1
+	},
+	"sounds": {
+		"pressure": "sounds/steam/challenger/pressure.ogg",
+		"idle": "sounds/steam/challenger/idle.ogg",
+		"chuff": "sounds/steam/k4_sounds/chuff.ogg",
+		"quilling": [{
+			"pull_start": 0.25,
+			"pull_end": 0.55,
+			"pitch_start": 0.9,
+			"pitch_end": 1,
+			"sample": "sounds/steam/whistles/bo3.ogg"
+		}]
+	}
+}

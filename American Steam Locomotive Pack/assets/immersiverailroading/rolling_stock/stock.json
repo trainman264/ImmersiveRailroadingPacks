@@ -3,14 +3,20 @@
 		"j1a_texas",
 		"t1",
 		"ps4_class",
+		"bo_p7",
 		"vt_440",
+		"challenger",
+		"baldwin_decapod",
 		"s2_berkshire"
 	],
 	"tender": [
 		"coast_to_coast",
 		"t1_tender",
 		"ps4_tender_big",
+		"bo_p7_tender",
 		"vt_440_tender",
+		"centipede_oil_tender_gh",
+		"baldwin_decapod_tender",
 		"s2_tender"
 	]
 }

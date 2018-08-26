@@ -1,0 +1,47 @@
+{
+	"era": "steam",
+	"name": "Challenger GH 4-6-6-4",
+	"works": "American Locomotive Company",
+	"model": "immersiverailroading:models/rolling_stock/locomotives/challenger/challenger.obj",
+	"darken_model": "-0.05",
+	"properties": {
+		"max_psi": 280,
+		"water_capacity_l": 95000, 
+		"horsepower": 5400,
+		"tractive_effort_lbf": 97352,
+		"max_speed_kmh": 110,
+		"valve_gear": "mallet_walschaerts",
+		"weight_kg": 627000
+	},
+	"firebox": {
+		"slots": 24,
+		"width": 8
+	},
+	"passenger": {
+		"slots": 4,
+		"center_x": -9.6,
+		"center_y": 2.3,
+		"length": 0.6,
+		"width": 2.7
+	},
+	"trucks": {
+		"front": 1.3, 
+		"rear": -2.4
+	},
+	"couplers": {
+		"front_offset": -0.08,
+		"rear_offset": -0.5
+	},
+	"sounds": {
+		"pressure": "sounds/steam/challenger/pressure.ogg",
+		"idle": "sounds/steam/challenger/idle.ogg",
+		"chuff": "sounds/steam/challenger/chuff.ogg",
+		"quilling": [{
+			"pull_start": 0.25,
+			"pull_end": 0.55,
+			"pitch_start": 0.9,
+			"pitch_end": 1,
+			"sample": "sounds/steam/whistles/3chimehancock.ogg"
+		}]
+	}
+}
